@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row-mb-3{
+display: flex;
+flex-direction: row;
+}
+.col-md-7{
+ width: 45%;
+margin-left: 10px; 
+}
